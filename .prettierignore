@@ -1,0 +1,7 @@
+node_modules
+work
+dist
+data/mock_mailbox_data.json
+package-lock.json
+test-results
+playwright-report

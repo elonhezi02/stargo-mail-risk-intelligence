@@ -1,0 +1,41 @@
+From: Northstar Billing <billing@northstar.example>
+To: Accounts Payable <finance@arcline.example>
+Date: Wed, 14 Oct 2026 10:00:00 +0300
+Subject: Invoice NS-2026-104: urgent bank account change
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9064055901613983501=="
+
+--===============9064055901613983501==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello Finance,
+
+Please pay invoice NS-2026-104 for USD 48,700 today before 14:00.
+We have changed our bank account. Use account ending 9921 instead of the usua=
+l account ending 4402.
+The attachment lists the invoice and earlier payments.
+Our usual contact is unavailable. Please skip the normal callback verificatio=
+n and keep this change between us until payment is complete.
+Reply to this email when the transfer is scheduled.
+
+Northstar Billing
+
+Fictional test message. All names, domains and account references are synthet=
+ic.
+
+--===============9064055901613983501==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename="invoice-NS-2026-104.txt"
+MIME-Version: 1.0
+
+Invoice: NS-2026-104
+Supplier: Northstar Supplies
+Customer: Arcline
+Current amount: USD 48,700
+Requested account: ending 9921
+Previous invoice NS-2026-102: USD 12,400, account ending 4402
+Previous invoice NS-2026-103: USD 13,900, account ending 4402
+
+--===============9064055901613983501==--
